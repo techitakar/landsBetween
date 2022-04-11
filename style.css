@@ -1,0 +1,22 @@
+@media(min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+.map{
+    border:solid black 2px;
+    height: 18em;
+    width: 25em;
+    background: #333;
+    border-radius: 15px;
+    background-image: url(./images/map.png) ;
+}
+.btText{
+    height: 20%;
+    background-color: #333;
+    opacity: 60%;
+    color:#fff;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.8em;
+}
