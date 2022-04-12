@@ -6,10 +6,12 @@
 .map{
     border:solid black 2px;
     height: 18em;
-    width: 25em;
+    width: 100%;
     background: #333;
     border-radius: 15px;
-    background-image: url(./images/map.png) ;
+    background-image: url(./images/map.png);
+    background-position: center;
+    position: relative;
 }
 .btText{
     height: 20%;
